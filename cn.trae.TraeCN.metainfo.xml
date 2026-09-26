@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>cn.trae.TraeCN</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary</project_license>
+  <name>Trae CN</name>
+  <developer>
+    <name>TRAE Team</name>
+  </developer>
+  <url type="homepage">https://www.trae.com.cn/</url>
+  <summary>AI-powered code editor and IDE</summary>
+  <description>
+    <p>**NOTE: This is the proprietary Trae CN build, packaged into a Flatpak. This repackaging is not supported by the vendor.**</p>
+    <p>Trae CN is an AI-powered IDE built on top of the Visual Studio Code code base, combining a code editor with AI assistance for the core edit-build-debug cycle.</p>
+  </description>
+  <launchable type="desktop-id">cn.trae.TraeCN.desktop</launchable>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-info">moderate</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="2.3.87416" date="2026-09-20"/>
+  </releases>
+</component>

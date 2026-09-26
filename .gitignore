@@ -1,0 +1,6 @@
+*.deb
+
+# flatpak-builder output and state
+/build
+/repo
+/.flatpak-builder
